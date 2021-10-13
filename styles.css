@@ -35,4 +35,21 @@ h1 {
 }
 
 .greet {
-  font-family: "lucida handwriting"
+  font-family: "lucida handwriting";
+}
+
+ /* IMAGES */
+
+.top-cloud{
+  position: relative;
+  right: 30px
+}
+
+.bottom-cloud{
+  position: relative;
+  left: 30px;
+}
+
+.mountain{
+ float: center;
+}
