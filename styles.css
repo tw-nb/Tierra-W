@@ -41,12 +41,12 @@ h1 {
  /* IMAGES */
 
 .top-cloud{
-  position: relative;
+  position: absolute;
   left: 300px
 }
 
 .bottom-cloud{
-  position: relative;
+  position: absolute;
   left: 350px;
 }
 
