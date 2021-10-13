@@ -3,6 +3,8 @@ body {
 
 }
 
+/* CONTAINERS */
+
 .top_container {
   background-color: #A6F0C6;
 }
@@ -18,11 +20,19 @@ body {
   width: 200px;
 }
 
+/* HEADERS */
+
 h1 {
   margin-top: 0;
   display: inline-block;
 }
 
+
+/* TEXTS */
+
 .pro {
   text-decoration: underline;
 }
+
+.greet {
+  font-family: "lucida handwriting"
