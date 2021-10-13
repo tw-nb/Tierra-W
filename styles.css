@@ -56,5 +56,6 @@ h1 {
 }
 
 .mountain{
- float: center;
+ position: relative;
+ left: 50%;
 }
