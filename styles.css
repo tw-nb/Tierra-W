@@ -10,6 +10,7 @@ body {
   background-color: #050505;
   position: relative;
   padding-top: 100px;
+	width: 100%;
 }
 
 .middle-container {
