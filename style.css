@@ -134,13 +134,20 @@ header a, a:visited {
   background-color: #000;
 }
 
+
+
+
+
+
+
+
 /* HTML ELEMENTS */
 
 hr {
   border: dotted #eaf6f6 6px;
   border-bottom: none;
   width: 4%;
-  margin: 100px auto;
+  margin: auto;
 }
 
 /* HEADERS */
